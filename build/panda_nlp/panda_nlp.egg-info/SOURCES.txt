@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+../../build/panda_nlp/panda_nlp.egg-info/PKG-INFO
+../../build/panda_nlp/panda_nlp.egg-info/SOURCES.txt
+../../build/panda_nlp/panda_nlp.egg-info/dependency_links.txt
+../../build/panda_nlp/panda_nlp.egg-info/entry_points.txt
+../../build/panda_nlp/panda_nlp.egg-info/requires.txt
+../../build/panda_nlp/panda_nlp.egg-info/top_level.txt
+../../build/panda_nlp/panda_nlp.egg-info/zip-safe
+panda_nlp/__init__.py
+panda_nlp/voice_command_node.py
+panda_nlp/voice_nlp_core.py
+resource/panda_nlp
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

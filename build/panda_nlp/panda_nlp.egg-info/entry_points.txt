@@ -1,0 +1,3 @@
+[console_scripts]
+voice_command = panda_nlp.voice_command_node:main
+

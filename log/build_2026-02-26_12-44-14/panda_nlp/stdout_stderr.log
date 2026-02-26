@@ -1,0 +1,38 @@
+running egg_info
+creating ../../build/panda_nlp/panda_nlp.egg-info
+writing ../../build/panda_nlp/panda_nlp.egg-info/PKG-INFO
+writing dependency_links to ../../build/panda_nlp/panda_nlp.egg-info/dependency_links.txt
+writing entry points to ../../build/panda_nlp/panda_nlp.egg-info/entry_points.txt
+writing requirements to ../../build/panda_nlp/panda_nlp.egg-info/requires.txt
+writing top-level names to ../../build/panda_nlp/panda_nlp.egg-info/top_level.txt
+writing manifest file '../../build/panda_nlp/panda_nlp.egg-info/SOURCES.txt'
+reading manifest file '../../build/panda_nlp/panda_nlp.egg-info/SOURCES.txt'
+writing manifest file '../../build/panda_nlp/panda_nlp.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/roboarm/panda_ws/build/panda_nlp/build
+creating /home/roboarm/panda_ws/build/panda_nlp/build/lib
+creating /home/roboarm/panda_ws/build/panda_nlp/build/lib/panda_nlp
+copying panda_nlp/voice_nlp_core.py -> /home/roboarm/panda_ws/build/panda_nlp/build/lib/panda_nlp
+copying panda_nlp/__init__.py -> /home/roboarm/panda_ws/build/panda_nlp/build/lib/panda_nlp
+copying panda_nlp/voice_command_node.py -> /home/roboarm/panda_ws/build/panda_nlp/build/lib/panda_nlp
+running install
+running install_lib
+creating /home/roboarm/panda_ws/install/panda_nlp/lib/python3.10/site-packages/panda_nlp
+copying /home/roboarm/panda_ws/build/panda_nlp/build/lib/panda_nlp/voice_nlp_core.py -> /home/roboarm/panda_ws/install/panda_nlp/lib/python3.10/site-packages/panda_nlp
+copying /home/roboarm/panda_ws/build/panda_nlp/build/lib/panda_nlp/__init__.py -> /home/roboarm/panda_ws/install/panda_nlp/lib/python3.10/site-packages/panda_nlp
+copying /home/roboarm/panda_ws/build/panda_nlp/build/lib/panda_nlp/voice_command_node.py -> /home/roboarm/panda_ws/install/panda_nlp/lib/python3.10/site-packages/panda_nlp
+byte-compiling /home/roboarm/panda_ws/install/panda_nlp/lib/python3.10/site-packages/panda_nlp/voice_nlp_core.py to voice_nlp_core.cpython-310.pyc
+byte-compiling /home/roboarm/panda_ws/install/panda_nlp/lib/python3.10/site-packages/panda_nlp/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/roboarm/panda_ws/install/panda_nlp/lib/python3.10/site-packages/panda_nlp/voice_command_node.py to voice_command_node.cpython-310.pyc
+running install_data
+creating /home/roboarm/panda_ws/install/panda_nlp/share/ament_index
+creating /home/roboarm/panda_ws/install/panda_nlp/share/ament_index/resource_index
+creating /home/roboarm/panda_ws/install/panda_nlp/share/ament_index/resource_index/packages
+copying resource/panda_nlp -> /home/roboarm/panda_ws/install/panda_nlp/share/ament_index/resource_index/packages
+copying package.xml -> /home/roboarm/panda_ws/install/panda_nlp/share/panda_nlp
+running install_egg_info
+Copying ../../build/panda_nlp/panda_nlp.egg-info to /home/roboarm/panda_ws/install/panda_nlp/lib/python3.10/site-packages/panda_nlp-0.0.0-py3.10.egg-info
+running install_scripts
+Installing voice_command script to /home/roboarm/panda_ws/install/panda_nlp/lib/panda_nlp
+writing list of installed files to '/home/roboarm/panda_ws/build/panda_nlp/install.log'
