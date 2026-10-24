@@ -2,8 +2,6 @@
 
 ## Installation and Setup
 
-This guide explains how to set up the project on a fresh Ubuntu system.
-
 ### 1. Prerequisites
 
 Before getting started, ensure you have:
